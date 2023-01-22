@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="UZ" fill="none" fill-rule="evenodd">
+    <g id="Uzbekistan-">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="4" y="8" fill="#027A02" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-101" width="16" height="3.33" fill="#0286CE" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#FFFFFF" d="M3.73417704,0.512227683 C3.72460398,0.511992979 3.71500198,0.511874944 3.70537242,0.511874944 C3.06851906,0.511874944 2.5522474,1.0281466 2.5522474,1.66499996 C2.5522474,2.30185332 3.06851906,2.81812498 3.70537242,2.81812498 C3.71500198,2.81812498 3.72460398,2.81800694 3.73417704,2.81777224 C3.58526517,2.88039204 3.42167414,2.91499996 3.25,2.91499996 C2.55964406,2.91499996 2,2.3553559 2,1.66499996 C2,0.974644025 2.55964406,0.414999962 3.25,0.414999962 C3.42167414,0.414999962 3.58526517,0.449607886 3.73417704,0.512227683 Z" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-102" width="16" height="4" y="4" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-3-Copy-2" width="16" height="1" y="8" fill="#C70201" mask="url(#mask-2)"/>
+      <rect id="Rectangle-3-Copy-3" width="16" height="1" y="3.33" fill="#C70201" mask="url(#mask-2)"/>
+      <polygon id="Combined-Shape" fill="#FFFFFF" points="6 .665 8 .665 8 2.665 4 2.665" mask="url(#mask-2)" opacity=".7"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

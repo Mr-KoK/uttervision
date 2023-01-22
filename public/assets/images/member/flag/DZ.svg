@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="DZ" fill="none" fill-rule="evenodd">
+    <g id="Algeria">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="8" height="12" x="8" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-31" width="8" height="12" fill="#006233" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#D21034" d="M10.3386091,3.79609188 C9.74480888,3.15285121 8.89445601,2.75 7.95001221,2.75 C6.15508677,2.75 4.70001221,4.20507456 4.70001221,6 C4.70001221,7.79492544 6.15508677,9.25 7.95001221,9.25 C8.89445601,9.25 9.74480888,8.84714879 10.3386091,8.20390812 C9.62274279,9.2861637 8.3947341,10 7,10 C4.790861,10 3,8.209139 3,6 C3,3.790861 4.790861,2 7,2 C8.3947341,2 9.62274279,2.7138363 10.3386091,3.79609188 Z" mask="url(#mask-2)"/>
+      <polygon id="Star" fill="#D21034" points="9.563 6.72 8.388 7.618 8.879 6.222 7.661 5.382 9.14 5.418 9.563 4 9.987 5.418 11.466 5.382 10.248 6.222 10.739 7.618" mask="url(#mask-2)" transform="rotate(20 9.563 6)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

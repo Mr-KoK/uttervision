@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <path id="path-3" d="M10.9344428,8.62373507 C10.5899634,10.2443831 8.99691294,11.2789222 7.37626493,10.9344428 C5.75561692,10.5899634 4.72107783,8.99691294 5.0655572,7.37626493 C5.41003657,5.75561692 7.00308706,4.72107783 8.62373507,5.0655572 C10.2443831,5.41003657 11.2789222,7.00308706 10.9344428,8.62373507 Z"/>
+    <mask id="mask-4" width="6.001" height="6.001" x="0" y="0" fill="white">
+      <use xlink:href="#path-3"/>
+    </mask>
+    <path id="path-5" d="M10.5715019,9.54511422 C9.71815888,10.9653155 7.87508706,11.4248449 6.45488578,10.5715019 C5.03468449,9.71815888 4.57515507,7.87508706 5.4284981,6.45488578 C6.28184112,5.03468449 8.12491294,4.57515507 9.54511422,5.4284981 C10.9653155,6.28184112 11.4248449,8.12491294 10.5715019,9.54511422 Z"/>
+    <mask id="mask-6" width="6.001" height="6.001" x="0" y="0" fill="white">
+      <use xlink:href="#path-5"/>
+    </mask>
+    <polygon id="path-7" points="0 0 4 0 4 4 2 6 0 4"/>
+  </defs>
+  <g id="CA-YT" fill="none" fill-rule="evenodd">
+    <g id="Yukon">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <g id="Oval-80-Copy" stroke="#D5105A" stroke-dasharray="8 13" stroke-width="2" mask="url(#mask-2)">
+        <use mask="url(#mask-4)" xlink:href="#path-3"/>
+      </g>
+      <g id="Oval-80" stroke="#1E501F" stroke-dasharray="6 13" stroke-width="2" mask="url(#mask-2)">
+        <use mask="url(#mask-6)" xlink:href="#path-5"/>
+      </g>
+      <g id="Group-29" mask="url(#mask-2)">
+        <g transform="translate(6 3)">
+          <mask id="mask-8" fill="white">
+            <use xlink:href="#path-7"/>
+          </mask>
+          <g id="Rectangle-119-Copy-7">
+            <use fill="#0738AC" xlink:href="#path-7"/>
+            <path stroke="#000000" stroke-width=".5" d="M-0.25,-0.25 L4.25,-0.25 L4.25,4 L4.1767767,4.1767767 L2,6.35355339 L-0.176776695,4.1767767 L-0.25,4 L-0.25,-0.25 Z"/>
+          </g>
+          <g id="England-Symbol" mask="url(#mask-8)">
+            <rect id="Rectangle-77" width="4" height="1" fill="#FFFFFF"/>
+            <polygon id="Rectangle-112" fill="#CE1124" points="2.25 .417 4 .417 4 .583 2.25 .583 2.25 1 1.75 1 1.75 .583 0 .583 0 .417 1.75 .417 1.75 0 2.25 0"/>
+          </g>
+          <polygon id="Path-27" fill="#D51810" points="-.5 5.8 .71 1.5 1.749 6" mask="url(#mask-8)"/>
+          <polygon id="Path-27-Copy" fill="#D51810" points="4.749 5.8 2.5 6 3.54 1.5" mask="url(#mask-8)"/>
+          <rect id="Rectangle-64-Copy-2" width="1" height="5" x="1.5" y="1" fill="#FFFFFF" mask="url(#mask-8)"/>
+        </g>
+      </g>
+      <rect id="Rectangle-116" width="2" height="1" x="7" y="1.5" fill="#CDCDCD" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy" width="5" height="12" fill="#187B01" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-153" width="5" height="12" x="11" fill="#0738AC" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

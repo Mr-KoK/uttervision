@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <polygon id="path-3" points="0 0 5.33 6 0 12"/>
+  </defs>
+  <g id="ZW" fill="none" fill-rule="evenodd">
+    <g id="Zimbabwe-">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#006400" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-82" width="16" height="8.57" y="1.714" fill="#FFD200" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-83" width="16" height="5.103" y="3.449" fill="#D40000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-84" width="16" height="2.05" y="4.975" fill="#000000" mask="url(#mask-2)"/>
+      <g id="Path-2" mask="url(#mask-2)">
+        <use fill="#FFFFFF" xlink:href="#path-3"/>
+        <path stroke="#050505" stroke-width=".67" d="M-0.335,-0.881528661 L5.77809121,6 L-0.335,12.8815287 L-0.335,-0.881528661 Z"/>
+      </g>
+      <polygon id="Star-2-Copy" fill="#D40000" points="2.1 6.817 1.111 7.522 1.476 6.363 .5 5.641 1.714 5.63 2.1 4.478 2.486 5.63 3.7 5.641 2.724 6.363 3.089 7.522" mask="url(#mask-2)"/>
+      <rect id="bird" width="1" height="1.553" x="1.6" y="5.364" fill="#FFCC00" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

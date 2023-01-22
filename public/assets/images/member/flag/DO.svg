@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="DO" fill="none" fill-rule="evenodd">
+    <g id="Dominican-Republic">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#002D62" mask="url(#mask-2)"/>
+      <polygon id="Combined-Shape" fill="#FFFFFF" points="9 5 9 0 7 0 7 5 0 5 0 7 7 7 7 12 9 12 9 7 16 7 16 5" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-21" width="7" height="5" x="9" fill="#CE1126" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-22" width="7" height="5" y="7" fill="#CE1126" mask="url(#mask-2)"/>
+      <rect id="Rectangle-546" width="1" height="1" x="7.5" y="5.5" fill="#181A1A" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

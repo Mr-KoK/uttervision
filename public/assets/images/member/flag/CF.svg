@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="CF" fill="none" fill-rule="evenodd">
+    <g id="Central-African-Republic">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#2875C6" mask="url(#mask-2)"/>
+      <rect id="Rectangle-6" width="16" height="3" fill="#003082" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="2.643 2.192 1.716 2.853 2.058 1.767 1.143 1.09 2.281 1.08 2.643 0 3.005 1.08 4.143 1.09 3.228 1.767 3.57 2.853" mask="url(#mask-2)"/>
+      <rect id="Rectangle-6-Copy" width="16" height="3" y="3" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-6-Copy-2" width="16" height="3" y="6" fill="#289728" mask="url(#mask-2)"/>
+      <rect id="Rectangle-6-Copy-3" width="16" height="3" y="9" fill="#FFCE00" mask="url(#mask-2)"/>
+      <rect id="Rectangle-5" width="2" height="12" x="7" fill="#D21034" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+-16 january 2022
+1-create master-home
+2-create section for styles home
+3-create section for javascript home
+4-debug footer space
+5-start map section
+________________________

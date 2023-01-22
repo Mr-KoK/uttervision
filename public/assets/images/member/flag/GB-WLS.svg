@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="GB-WLS" fill="none" fill-rule="evenodd">
+    <g id="Wales">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-77" width="16" height="6" y="6" fill="#00AB39" mask="url(#mask-2)"/>
+      <path id="Rectangle-357" fill="#D21034" d="M6.33333333,9 L6,9 L6,10 L5,10 L5,11 L3,11 L3,10 L4,10 L4,9 L5,9 L5,7 L3,7 L3,6 L2,6 L2,5 L3,5 L4,5 L4,6 L5,6 L5,4 L3,4 L3,3 L5,3 L5,2 L3,2 L3,1 L6,1 L6,2 L7,2 L8,2 L8,3 L7,3 L7,4 L8,4 L8,5 L7,5 L7,6 L8,6 L9,6 L9,5 L10,5 L10,4 L11,4 L11,3 L12,3 L12,2 L14,2 L14,3 L14,4 L13,4 L13,5 L12,5 L12,6 L11,6 L11,7 L12,7 L12,8 L14,8 L14,10 L14,11 L13,11 L13,10 L12,10 L12,11 L10,11 L10,10 L9,10 L9,11 L7,11 L7,10 L6,10 L6.33333333,9 Z" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

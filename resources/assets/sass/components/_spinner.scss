@@ -1,0 +1,51 @@
+._spinner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: 30;
+  background-color: #ffffffd1;
+  left: 0;
+  top: 0;
+  display: none;
+
+  &:before {
+    animation: spin .6s ease infinite;
+    border: 4px solid rgba(0, 0, 0, .1);
+    border-radius: 50%;
+    border-top-color: #333;
+    content: "";
+    height: 50px;
+    left: 46%;
+    position: absolute;
+    top: 38%;
+    width: 50px;
+    z-index: 11;
+  }
+
+  &.show {
+     display: block;
+  }
+
+}
+
+.btn{
+  position: relative;
+  ._spinner{
+    &:before{
+      width: 10px!important;
+      height: 10px!important;
+      left: 37%;
+      top: 20%;
+    }
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg)
+  }
+
+  100% {
+    transform: rotate(359deg)
+  }
+}

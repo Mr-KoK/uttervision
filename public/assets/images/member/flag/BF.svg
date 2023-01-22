@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="BF" fill="none" fill-rule="evenodd">
+    <g id="Burkina-Faso">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="6" y="6" fill="#009E49" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-35" width="16" height="6" fill="#EF2B2D" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#F7D418" points="8 6.78 6.824 7.618 7.258 6.241 6.098 5.382 7.542 5.369 8 4 8.458 5.369 9.902 5.382 8.742 6.241 9.176 7.618" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

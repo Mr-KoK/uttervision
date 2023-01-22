@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <polygon id="path-3" points="8 3 14 6 8 9 2 6"/>
+  </defs>
+  <g id="BQ-SE" fill="none" fill-rule="evenodd">
+    <g id="Sint-Eustatius">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#2875C6" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-28" width="15" height="11" x=".5" y=".5" stroke="#DC171D" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-29" width="16" height="2" y="5" fill="#DC171D" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-30" width="2" height="10" x="7" y="1" fill="#DC171D" mask="url(#mask-2)"/>
+      <g id="Rectangle-603" mask="url(#mask-2)">
+        <use fill="#FFFFFF" xlink:href="#path-3"/>
+        <path stroke="#DC171D" d="M8,3.55901699 L3.11803399,6 L8,8.44098301 L12.881966,6 L8,3.55901699 Z"/>
+      </g>
+      <rect id="Rectangle-604" width="2" height="1" x="8" y="5.5" fill="#008830" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

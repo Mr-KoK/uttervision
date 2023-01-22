@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <rect id="path-3" width="6" height="2" x="9" y="5"/>
+  </defs>
+  <g id="CA-NL" fill="none" fill-rule="evenodd">
+    <g id="Newfoundland-and-Labrador-">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-91" width="7" height="10" x="1" y="1" fill="#002373" mask="url(#mask-2)"/>
+      <path id="Rectangle-114" fill="#FFFFFF" d="M5.45454546,5 L0,0.999999997 L0,4.78120999e-08 L1,2.77555755e-17 L7,4.4 L7,1 L9,1 L9,4.4 L15,2.77555755e-17 L16,4.78120999e-08 L16,0.999999997 L10.5454545,5 L15,5 L15,7 L10.5454545,7 L16,11 L16,12 L15,12 L9,7.6 L9,11 L7,11 L7,7.6 L1,12 L0,12 L0,11 L5.45454546,7 L1,7 L1,5 L5.45454546,5 Z" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" stroke="#CD0019" d="M9.5,1.5 L9.5,4.41329749 L13.4726784,1.5 L9.5,1.5 Z M13.4726784,10.5 L9.5,7.58670251 L9.5,10.5 L13.4726784,10.5 Z" mask="url(#mask-2)"/>
+      <g id="Rectangle-94" mask="url(#mask-2)">
+        <use fill="#F8D80E" xlink:href="#path-3"/>
+        <rect width="5.5" height="1.5" x="9.25" y="5.25" stroke="#CD0019" stroke-width=".5"/>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

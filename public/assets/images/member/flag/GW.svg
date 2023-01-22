@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="GW" fill="none" fill-rule="evenodd">
+    <g id="Guinea-Bissau">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#009E49" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-60" width="16" height="6" fill="#FCD116" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-61" width="5" height="12" fill="#CE1126" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#000000" points="2.5 6.819 1.508 7.526 1.874 6.365 .895 5.64 2.113 5.629 2.5 4.474 2.887 5.629 4.105 5.64 3.126 6.365 3.492 7.526" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

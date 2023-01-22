@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="AS" fill="none" fill-rule="evenodd">
+    <g id="American-Samoa">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#000066" mask="url(#mask-2)"/>
+      <polygon id="Path" fill="#BD1021" points="0 6 17 -1 17 13" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-119-Copy-126" fill="#FFFFFF" fill-rule="nonzero" points="16 11.507 16 .493 2.626 6" mask="url(#mask-2)"/>
+      <polygon id="Triangle-3" fill="#AA5323" points="13.198 3.198 15.198 7.198 11.198 7.198" mask="url(#mask-2)" transform="rotate(-96 13.198 5.198)"/>
+      <polygon id="Path-15" fill="#FFC221" fill-rule="nonzero" points="14.543 8.273 11.284 7.662 11.1 8.645 15.226 9.419 15.812 7.589 11.528 5.919 11.164 6.85 14.573 8.18" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

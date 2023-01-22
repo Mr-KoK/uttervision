@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="TN" fill="none" fill-rule="evenodd">
+    <g id="Tunisia">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#E70013" mask="url(#mask-2)"/>
+      <circle id="Oval-27" cx="8" cy="6" r="3.5" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#E70013" points="9.044 6.556 8.4 7.427 8.39 6.344 7.364 6 8.39 5.656 8.4 4.573 9.044 5.444 10.077 5.118 9.449 6 10.077 6.882" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#E70013" d="M10.0770883,4.62542316 C9.70673528,4.22423415 9.17637045,3.97297597 8.58732113,3.97297597 C7.46782668,3.97297597 6.56029711,4.88050554 6.56029711,6 C6.56029711,7.11949446 7.46782668,8.02702403 8.58732113,8.02702403 C9.17637045,8.02702403 9.70673528,7.77576585 10.0770883,7.37457684 C9.6306027,8.04957932 8.86469404,8.4947988 7.9947988,8.4947988 C6.61695947,8.4947988 5.5,7.37783933 5.5,6 C5.5,4.62216067 6.61695947,3.5052012 7.9947988,3.5052012 C8.86469404,3.5052012 9.6306027,3.95042068 10.0770883,4.62542316 Z" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

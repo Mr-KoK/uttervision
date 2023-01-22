@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MX" fill="none" fill-rule="evenodd">
+    <g id="Mexico">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119" width="16" height="12" fill="#CE1126" mask="url(#mask-2)"/>
+      <rect id="Rectangle-142" width="7" height="12" x="4" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-142-Copy" width="5" height="12" fill="#006847" mask="url(#mask-2)"/>
+      <path id="Oval-14" fill="#717732" fill-rule="nonzero" d="M5.5,5 C5.5,6.38071187 6.61928813,7.5 8,7.5 C9.38071187,7.5 10.5,6.38071187 10.5,5 L9.5,5 C9.5,5.82842712 8.82842712,6.5 8,6.5 C7.17157288,6.5 6.5,5.82842712 6.5,5 L5.5,5 Z" mask="url(#mask-2)"/>
+      <circle id="Oval-14-Copy" cx="8" cy="5" r="1" fill="#AB6D29" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="list" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="list-2" data-name="list" transform="translate(0)">
+    <path id="Shape" d="M2.055,0A2,2,0,1,1,.6.567,2,2,0,0,1,2.055,0Z" transform="translate(0)"/>
+    <rect id="Rectangle" width="14" height="2" rx="1" transform="translate(6 1)"/>
+    <path id="Shape-2" data-name="Shape" d="M2.055,0A2,2,0,1,1,.6.567,2,2,0,0,1,2.055,0Z" transform="translate(0 16)"/>
+    <rect id="Rectangle-2" data-name="Rectangle" width="14" height="2" rx="1" transform="translate(6 17)"/>
+    <path id="Shape-3" data-name="Shape" d="M2.055,0A2,2,0,1,1,.6.567,2,2,0,0,1,2.055,0Z" transform="translate(0 8)"/>
+    <rect id="Rectangle-3" data-name="Rectangle" width="14" height="2" rx="1" transform="translate(6 9)"/>
+  </g>
+</svg>

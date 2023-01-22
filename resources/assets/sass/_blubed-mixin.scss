@@ -1,0 +1,37 @@
+@mixin desktop() {
+  @media (min-width:1024px) {
+    @content;
+  }
+}
+
+
+@mixin s-desktop() {
+  @media (min-width:1024px) and (max-width: 1240px) {
+    @content;
+  }
+}
+
+@mixin mobile-tablet() {
+  @media (max-width:1023px) {
+    @content;
+  }
+}
+
+
+@mixin mobile() {
+  @media (max-width:767px) {
+    @content;
+  }
+}
+
+@mixin s-mobile() {
+  @media (max-width:360px) {
+    @content;
+  }
+}
+
+@mixin tablet-desktop() {
+  @media (min-width:768px) {
+    @content;
+  }
+}

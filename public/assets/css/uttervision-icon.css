@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'uttervision-icon';
+  src:  url('fonts/uttervision-icon.eot?pyw5wa');
+  src:  url('fonts/uttervision-icon.eot?pyw5wa#iefix') format('embedded-opentype'),
+    url('fonts/uttervision-icon.ttf?pyw5wa') format('truetype'),
+    url('fonts/uttervision-icon.woff?pyw5wa') format('woff'),
+    url('fonts/uttervision-icon.svg?pyw5wa#uttervision-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="uttervision-icon-"], [class*=" uttervision-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'uttervision-icon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.uttervision-icon-share:before {
+  content: "\e919";
+}
+.uttervision-icon-aeroplane:before {
+  content: "\e900";
+}
+.uttervision-icon-appointment:before {
+  content: "\e901";
+}
+.uttervision-icon-calculator-symbols:before {
+  content: "\e902";
+}
+.uttervision-icon-cap:before {
+  content: "\e903";
+}
+.uttervision-icon-chat:before {
+  content: "\e904";
+}
+.uttervision-icon-clock:before {
+  content: "\e905";
+}
+.uttervision-icon-computer-graphic:before {
+  content: "\e906";
+}
+.uttervision-icon-edit:before {
+  content: "\e907";
+}
+.uttervision-icon-envelope:before {
+  content: "\e908";
+}
+.uttervision-icon-factory:before {
+  content: "\e909";
+}
+.uttervision-icon-group-1:before {
+  content: "\e90a";
+}
+.uttervision-icon-group:before {
+  content: "\e90b";
+}
+.uttervision-icon-home:before {
+  content: "\e90c";
+}
+.uttervision-icon-humanitarian:before {
+  content: "\e90d";
+}
+.uttervision-icon-like:before {
+  content: "\e90e";
+}
+.uttervision-icon-loupe:before {
+  content: "\e90f";
+}
+.uttervision-icon-pencil-edit-button:before {
+  content: "\e910";
+}
+.uttervision-icon-phone-call:before {
+  content: "\e911";
+}
+.uttervision-icon-price:before {
+  content: "\e912";
+}
+.uttervision-icon-search:before {
+  content: "\e913";
+}
+.uttervision-icon-team:before {
+  content: "\e914";
+}
+.uttervision-icon-user-1:before {
+  content: "\e915";
+}
+.uttervision-icon-user-2:before {
+  content: "\e916";
+}
+.uttervision-icon-user:before {
+  content: "\e917";
+}
+.uttervision-icon-working:before {
+  content: "\e918";
+}

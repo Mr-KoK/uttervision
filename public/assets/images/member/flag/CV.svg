@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <path id="path-3" d="M5.43948821,11 C7.37248484,11 8.93948821,9.43299662 8.93948821,7.5 C8.93948821,5.56700338 7.37248484,4 5.43948821,4 C3.50649159,4 1.93948821,5.56700338 1.93948821,7.5 C1.93948821,9.43299662 3.50649159,11 5.43948821,11 Z"/>
+    <mask id="mask-4" width="7" height="7" x="0" y="0" fill="white">
+      <use xlink:href="#path-3"/>
+    </mask>
+  </defs>
+  <g id="CV" fill="none" fill-rule="evenodd">
+    <g id="Cap-Verde">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#003893" mask="url(#mask-2)"/>
+      <rect id="Rectangle-4" width="16" height="3" y="6" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-4-Copy" width="16" height="1" y="7" fill="#CF2027" mask="url(#mask-2)"/>
+      <g id="Oval-2" stroke="#F7D116" stroke-dasharray="1 1.15" stroke-width="2" mask="url(#mask-2)" transform="rotate(-27 5.44 7.5)">
+        <use mask="url(#mask-4)" xlink:href="#path-3"/>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

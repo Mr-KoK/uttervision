@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="CG" fill="none" fill-rule="evenodd">
+    <g id="Congo,-Republic-of-the">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <path id="Combined-Shape" fill="#DC241F" d="M16,0.121320344 L16,12 L4.12132034,12 L16,0.121320344 Z" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#009543" d="M11.8786797,0 L1.33226763e-15,11.8786797 L0,0 L11.8786797,0 Z" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-7" fill="#FBDE4A" points="-2.36 14.238 16.238 -4.36 18.36 -2.238 -.238 16.36" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

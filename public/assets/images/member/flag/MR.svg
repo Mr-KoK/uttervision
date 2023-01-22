@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MR" fill="none" fill-rule="evenodd">
+    <g id="Mauritania">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#006233" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#FFC400" d="M10,3.61883339 C8.37844952,3.89087802 7.14285714,5.30114498 7.14285714,7 C7.14285714,8.69885502 8.37844952,10.109122 10,10.3811666 C9.81416659,10.4123435 9.62326412,10.4285714 9.42857143,10.4285714 C7.53502371,10.4285714 6,8.89354771 6,7 C6,5.10645229 7.53502371,3.57142857 9.42857143,3.57142857 C9.62326412,3.57142857 9.81416659,3.58765645 10,3.61883339 Z" mask="url(#mask-2)" transform="rotate(-90 8 7)"/>
+      <polygon id="Star-2" fill="#FFC400" points="8 5.085 7.118 5.714 7.444 4.681 6.573 4.036 7.656 4.027 8 3 8.344 4.027 9.427 4.036 8.556 4.681 8.882 5.714" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

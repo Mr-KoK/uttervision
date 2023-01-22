@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MH" fill="none" fill-rule="evenodd">
+    <g id="Marshall-Islands">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#003893" mask="url(#mask-2)"/>
+      <g id="Group-7" mask="url(#mask-2)">
+        <g transform="rotate(-25 19.47 11.415)">
+          <polygon id="Rectangle-58" fill="#DD7500" points="22 0 22 2 0 2 0 1"/>
+          <polygon id="Rectangle-58-Copy" fill="#FFFFFF" points="22 2 22 4 0 4 0 3" transform="matrix(1 0 0 -1 0 6)"/>
+        </g>
+      </g>
+      <g id="Group-11" fill="#FFFFFF" mask="url(#mask-2)">
+        <circle id="Oval-56" cx="3.5" cy="3.5" r="1.5"/>
+        <g id="Group-10" transform="translate(3)">
+          <polygon id="Rectangle-59" points=".5 0 1 2.5 0 2.5"/>
+          <polygon id="Rectangle-59-Copy" points=".5 4.5 1 7 0 7" transform="matrix(1 0 0 -1 0 11.5)"/>
+        </g>
+        <g id="Group-10-Copy" transform="rotate(90 2 5)">
+          <polygon id="Rectangle-59" points=".5 0 1 2.5 0 2.5"/>
+          <polygon id="Rectangle-59-Copy" points=".5 4.5 1 7 0 7" transform="matrix(1 0 0 -1 0 11.5)"/>
+        </g>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

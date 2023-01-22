@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="CC" fill="none" fill-rule="evenodd">
+    <g id="Cocos-(Keeling)-Islands-">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#008000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy" width="1" height="1" x="12" y="2" fill="#FFE000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-4" width="1" height="1" x="11" y="5" fill="#FFE000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-5" width="1" height="1" x="14" y="4" fill="#FFE000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-7" width="1" height="1" x="13" y="6" fill="#FFE000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-6" width="1" height="1" x="12" y="9" fill="#FFE000" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#FFC639" d="M10.2885441,4.62542316 C9.91819114,4.22423415 9.38782632,3.97297597 8.798777,3.97297597 C7.67928254,3.97297597 6.77175297,4.88050554 6.77175297,6 C6.77175297,7.11949446 7.67928254,8.02702403 8.798777,8.02702403 C9.38782632,8.02702403 9.91819114,7.77576585 10.2885441,7.37457684 C9.84205856,8.04957932 9.07614991,8.4947988 8.20625467,8.4947988 C6.82841533,8.4947988 5.71145586,7.37783933 5.71145586,6 C5.71145586,4.62216067 6.82841533,3.5052012 8.20625467,3.5052012 C9.07614991,3.5052012 9.84205856,3.95042068 10.2885441,4.62542316 Z" mask="url(#mask-2)"/>
+      <circle id="Oval-34" cx="3" cy="3" r="2" fill="#FFC639" mask="url(#mask-2)"/>
+      <rect id="Rectangle-29" width="2" height="1" x="2" y="2" fill="#008000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-29-Copy" width="1" height="1" x="2.5" y="3" fill="#802000" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

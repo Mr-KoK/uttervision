@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="Sealand" fill="none" fill-rule="evenodd">
+    <mask id="mask-2" fill="white">
+      <use xlink:href="#path-1"/>
+    </mask>
+    <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+    <polygon id="Rectangle-74" fill="#333333" points="16 4 16 12 4 12" mask="url(#mask-2)"/>
+    <polygon id="Rectangle-78" fill="#ED2939" points="0 0 16 0 16 1 0 11" mask="url(#mask-2)"/>
+    <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+      <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+    </g>
+  </g>
+</svg>

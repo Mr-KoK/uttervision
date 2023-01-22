@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="SC" fill="none" fill-rule="evenodd">
+    <g id="Seychelles">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#D62828" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-17-Copy" fill="#FCD856" points="0 0 13 0 0 12" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-17" fill="#003F87" points="0 0 6 0 0 12" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-17-Copy-3" fill="#FFFFFF" points="0 3 16 3 0 12" mask="url(#mask-2)" transform="rotate(180 8 7.5)"/>
+      <polygon id="Rectangle-17-Copy-2" fill="#007A3D" points="0 7 16 7 0 12" mask="url(#mask-2)" transform="rotate(180 8 9.5)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

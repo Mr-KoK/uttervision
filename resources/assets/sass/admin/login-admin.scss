@@ -1,0 +1,32 @@
+@import "../components/spinner";
+
+button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  cursor: not-allowed;
+  background-color: #cccccc;
+  color: #666666;
+  opacity: .2;
+}
+input.error{
+  box-shadow: rgba(208, 18, 18, 0.82) 0px 1px 4px;
+}
+._spinner{
+  border-radius: 45px;
+}
+.error-login{
+  top: 0;
+  left: 0;
+  margin: -5 auto;
+  position: absolute;
+  text-align: left;
+  width: 100%;
+}
+.form-group{
+  position: relative;
+}
+
+.parent-login{
+  background-image: url("../../../images/admin/login-bg.png");
+  background-size: cover;
+}

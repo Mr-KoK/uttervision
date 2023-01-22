@@ -1,0 +1,167 @@
+
+@font-face{ 
+	font-family: 'gills';
+	src: url('../fonts/gillsansstd-light.eot');/* IE6-IE8 */
+	src: url('../fonts/gillsansstd-light.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/gillsansstd-light.woff') format('woff'),
+	     url('../fonts/gillsansstd-light.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/gillsansstd-light.svg#gills') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'lindy';
+	src: url('../fonts/lindy.eot');/* IE6-IE8 */
+	src: url('../fonts/lindy.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/lindy.woff') format('woff'),
+	     url('../fonts/lindy.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/lindy.svg#lindy') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'proxy';
+	src: url('../fonts/proximanova-regular.eot');/* IE6-IE8 */
+	src: url('../fonts/proximanova-regular.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/proximanova-regular.woff') format('woff'),
+	     url('../fonts/proximanova-regular.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/proximanova-regular.svg#proxy') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'proxyl';
+	src: url('../fonts/proximanova-light.eot');/* IE6-IE8 */
+	src: url('../fonts/proximanova-light.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/proximanova-light.woff') format('woff'),
+	     url('../fonts/proximanova-light.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/proximanova-light.svg#proxyl') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'proxyb';
+	src: url('../fonts/proximanova-bold.eot');/* IE6-IE8 */
+	src: url('../fonts/proximanova-bold.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/proximanova-bold.woff') format('woff'),
+	     url('../fonts/proximanova-bold.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/proximanova-bold.svg#proxyb') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'jaak';
+	src: url('../fonts/jaapokki.eot');/* IE6-IE8 */
+	src: url('../fonts/jaapokki.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/jaapokki.woff') format('woff'),
+	     url('../fonts/jaapokki.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/jaapokki.svg#jaak') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'dek';
+	src: url('../fonts/dekar-light.eot');/* IE6-IE8 */
+	src: url('../fonts/dekar-light.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+         url('../fonts/dekar-light.woff') format('woff'),
+	     url('../fonts/dekar-light.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/dekar-light.svg#dek') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'dekl';
+	src: url('../fonts/dekar-light.eot');/* IE6-IE8 */
+	src: url('../fonts/dekar-light.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+	     url('../fonts/dekar-light.ttf') format('truetype'),/* Safari, Android, iOS */
+	     url('../fonts/dekar-light.svg#dekl') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* P E R S I A N . F O N T S */
+
+@font-face {
+ font-family: 'yekdig';
+    src: url('../fonts/IRANYekanDigits.eot');
+    src: url('../fonts/IRANYekanDigits.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/IRANYekanDigits.woff') format('woff'),
+         url('../fonts/IRANYekanDigits.ttf') format('truetype');
+         
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+ font-family: 'yek';
+    src: url('../fonts/iranyekanwebregular.woff') format('woff'),
+         url('../fonts/iranyekanwebregular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face{ 
+	font-family: 'sansy';
+	src: url('../fonts/iran_sans.eot');/* IE6-IE8 */
+	src: url('../fonts/iran_sans.eot?#iefix') format('embedded-opentype'),/* IE9 Compat Modes */
+	     url('../fonts/iran_sans.ttf') format('truetype'),
+	     url('../fonts/iran_sans.woff2') format('woff2'),
+	     url('../fonts/iran_sans.svg#IRANSans') format('svg');
+}
+
+@font-face {
+ font-family: 'isf';
+    src: url('../fonts/isfahan.eot');
+    src: url('../fonts/isfahan.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/isfahan.woff') format('woff'),
+         url('../fonts/isfahan.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+ font-family: 'dob';
+    src: url('../fonts/A.Google.eot');
+    src: url('../fonts/A.Google.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/A.Google.woff') format('woff'),
+         url('../fonts/A.Google.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+    font-family: "dobie";
+    src: url("../fonts/A.Google.otf");
+	src: url('../fonts/A.Google.eot');
+}
+
+@font-face {
+ font-family: 'dany';
+    src: url('../fonts/danan.eot');
+    src: url('../fonts/danan.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/danan.woff') format('woff'),
+         url('../fonts/danan.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+@font-face {
+ font-family: 'homa';
+    src: url('../fonts/BHoma.eot');
+    src: url('../fonts/BHoma.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/BHoma.woff') format('woff'),
+         url('../fonts/BHoma.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+

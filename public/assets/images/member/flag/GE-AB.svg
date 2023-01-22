@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <rect id="path-3" width="8" height="4.763"/>
+    <path id="path-5" d="M0.723391823,6.29430575 C-0.543718252,4.48468502 -0.103926473,1.9905019 1.70569425,0.723391823 C3.51531498,-0.543718252 6.0094981,-0.103926473 7.27660818,1.70569425 C8.54371825,3.51531498 8.10392647,6.0094981 6.29430575,7.27660818 C4.48468502,8.54371825 1.9905019,8.10392647 0.723391823,6.29430575 Z"/>
+    <mask id="mask-6" width="8.001" height="8.001" x="0" y="0" fill="white">
+      <use xlink:href="#path-5"/>
+    </mask>
+  </defs>
+  <g id="GE-AB" fill="none" fill-rule="evenodd">
+    <g id="Abkhazia">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-77" width="8" height="5.133" fill="#E34F4F" mask="url(#mask-2)"/>
+      <rect id="Rectangle-228" width="8" height="1.7" x="8" fill="#00993E" mask="url(#mask-2)"/>
+      <rect id="Rectangle-229" width="8" height="1.7" x="8" y="3.433" fill="#00993E" mask="url(#mask-2)"/>
+      <rect id="Rectangle-230" width="16" height="1.7" y="10.3" fill="#00993E" mask="url(#mask-2)"/>
+      <rect id="Rectangle-230-Copy" width="16" height="1.7" y="6.867" fill="#00993E" mask="url(#mask-2)"/>
+      <g id="Group-22" mask="url(#mask-2)">
+        <g id="Oval-75">
+          <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <g stroke="#FFFFFF" stroke-dasharray="1 1 1 1" stroke-width="2" mask="url(#mask-4)">
+            <use mask="url(#mask-6)" xlink:href="#path-5"/>
+          </g>
+        </g>
+        <rect id="Rectangle-231" width="2" height="2" x="3" y="2" fill="#FFFFFF"/>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

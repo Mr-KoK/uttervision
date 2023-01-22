@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <polygon id="path-3" points="10 4 16 4 16 8 10 8 10 12 6 12 6 8 0 8 0 4 6 4 6 0 10 0"/>
+  </defs>
+  <g id="GG" fill="none" fill-rule="evenodd">
+    <g id="Guernsey">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <g id="Rectangle-112" mask="url(#mask-2)">
+        <use fill="#CE1124" xlink:href="#path-3"/>
+        <path stroke="#FFFFFF" d="M10.5,3.5 L16.5,3.5 L16.5,8.5 L10.5,8.5 L10.5,12.5 L5.5,12.5 L5.5,8.5 L-0.5,8.5 L-0.5,3.5 L5.5,3.5 L5.5,-0.5 L10.5,-0.5 L10.5,3.5 Z"/>
+      </g>
+      <polygon id="Combined-Shape" fill="#F9DD16" points="7 5 4 5 4 7 7 7 7 10 9 10 9 7 12 7 12 5 9 5 9 2 7 2" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

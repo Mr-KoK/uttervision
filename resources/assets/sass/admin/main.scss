@@ -1,0 +1,646 @@
+@import "../_blubed-mixin.scss";
+//@import "modal";
+@import "../variables";
+@import "../components/collapse-box";
+@import "../components/spinner";
+@import "../components/notifications";
+.bg-green{
+  background-color: $green!important;
+}
+
+._video{
+  position: relative;
+  button{
+    position: absolute;
+    padding: 14px 3px;
+    border-radius: 5px 0 0 5px;
+    box-shadow: none;
+    border: 0;
+  }
+  input{
+    line-height: 40px!important;
+    padding-left: 96px!important;
+  }
+}
+
+.modal-body{
+  max-height: 70vh;
+  overflow: auto;
+}
+
+.swal2-container{
+  z-index: 1302!important;
+}
+
+img{
+  max-width: 100%;
+}
+
+._overflow-hidden {
+  overflow: hidden;
+}
+
+._back-drop {
+  z-index: 12;
+  opacity: 0;
+  position: fixed;
+  right: 0;
+  margin-right: -100%;
+  width: 100%;
+  height: 100%;
+  background-color: #025a5769;
+  transition: .3s;
+
+  &.show {
+    opacity: 1;
+    margin-right: 0;
+  }
+}
+
+.pagination-holder{
+  margin: 10px auto;
+  background-color: #accc02;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  li{
+    a,span{
+      color: #fff;
+      transition: .3s;
+    }
+    &.active,&:hover{
+      a,span{
+        color: #000;
+      }
+    }
+  }
+}
+
+.pagination{
+  margin: 6px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  li{
+    padding: 5px;
+  }
+}
+
+body {
+  margin: 0;
+  font-family: "Poppins", serif;
+}
+
+input[type='text'], input[type='number'], input[type='email'], input[type='password'] ,textarea{
+  width: 100%;
+  line-height: 1.6;
+  padding: 3px 9px;
+  border-radius: 5px;
+  border: 0.5px solid #ccc;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+input[type='number'] {
+  -moz-appearance: textfield;
+
+  &::-webkit-inner-spin-button, &::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+}
+
+input[type="checkbox"] {
+  position: relative;
+  width: 60px;
+  height: 25px;
+  -webkit-appearance: none;
+  -webkit-appearance: none;
+  background: #c6c6c6;
+  outline: none;
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+  transition: background 300ms linear;
+
+  // circle
+  &::before {
+    position: absolute;
+    content: "";
+    width: 25px;
+    height: 25px;
+    top: 0px;
+    left: 0px;
+    border-radius: 20px;
+    background-color: #fff;
+    transform: scale(1.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    transition: left 300ms linear;
+  }
+
+  // move to right
+  &:checked {
+    background: #accc02;
+
+
+    &::before {
+      left: 36px;
+      background-color: #fff;
+    }
+  }
+}
+
+select {
+  padding: 5px;
+  width: 100%;
+  border-radius: 5px;
+  border: 0.5px solid #ccc;
+  cursor: pointer;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+.ovi-scroll {
+  overflow-y: scroll;
+  max-height: 200px;
+
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #888;
+    width: 13px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+}
+
+button {
+  border: 1px solid #fff;
+  border-radius: 10px;
+  box-shadow: 0 3px 8px rgb(0 0 0 / 24%);
+  font-family: Poppins;
+  font-size: 13px;
+  padding: 15px 5px;
+}
+
+.master-layout {
+  .menu-hamburger-icon {
+    display: none;
+  }
+
+  .master-holder {
+    background-color: $light-green;
+    min-height: 100vh;
+
+    ._sidebar {
+      padding: 0 20px;
+      margin-right: 10px;
+      transition: .3s;
+      background-color: #fff;
+      box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+      z-index: 13;
+      height: 100%;
+
+      a.active {
+        color: $green !important;
+      }
+
+      .sidebar-logo {
+        width: 220px;
+        display: block;
+        margin: 20px auto;
+      }
+
+      .sidebar {
+        position: sticky;
+        top: 0;
+
+        ._main-items-holder {
+          & > li {
+            a {
+              transition: .3s;
+              line-height: 2;
+              color: #000;
+
+              &:hover {
+                color: $green;
+              }
+            }
+
+            margin: 10px 0;
+
+            .dashboard-btn {
+              position: relative;
+              padding: 0 10px;
+              transition: .3s;
+              min-height: 40px;
+
+              p {
+                position: absolute;
+                top: 0;
+                left: 45px;
+                text-transform: uppercase;
+                line-height: 40px;
+
+              }
+            }
+
+            &.active {
+              .collapse-btn {
+                border-radius: 100px;
+                background-color: #accc02;
+              }
+
+              .collapse-body {
+                display: block;
+              }
+            }
+          }
+
+          ._items-holder {
+            text-align: center;
+
+            ._item {
+              user-select: none;
+
+            }
+          }
+        }
+      }
+    }
+
+    ._content {
+      header {
+        margin-bottom: 30px;
+
+        ._actions {
+          & > div {
+            margin: 0 10px;
+          }
+
+          .collapse-btn {
+            &:after {
+              content: none;
+            }
+          }
+
+          .Notifications {
+            position: relative;
+
+            ._notification-btn {
+              position: relative;
+
+              ._notification-badge {
+                background-color: $success;
+                border: 1px solid #fff;
+                border-radius: 100px;
+                right: 65%;
+                padding: 4px;
+                position: absolute;
+                bottom: 57%;
+                box-shadow: rgb(50 50 93 / 25%) 0px 2px 5px -1px, rgb(0 0 0 / 30%) 0px 1px 3px -1px;
+                font-size: 10px;
+                line-height: 6px;
+              }
+            }
+
+            .collapse-body {
+              margin: 5px 0;
+              width: 200px;
+              border-radius: 10px;
+              position: absolute;
+              top: 100%;
+              left: 0;
+              background-color: #c6da61;
+              box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+              padding: 10px;
+              z-index: 14;
+              max-height: 150px;
+              overflow: auto;
+              &::-webkit-scrollbar {
+                width: 8px;
+              }
+
+              &::-webkit-scrollbar-track {
+                background: #f1f1f1;
+              }
+
+              &::-webkit-scrollbar-thumb {
+                background: #888;
+                width: 13px;
+              }
+
+              &::-webkit-scrollbar-thumb:hover {
+                background: #555;
+              }
+              li{
+                border-bottom: 1px dashed #fff;
+                &:last-child{
+                  border-bottom: 0;
+                }
+              }
+            }
+          }
+
+          ._account-holder {
+            position: relative;
+
+            img {
+              width: 43px;
+              border-radius: 100%;
+              box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+              border: 4px solid #FFF;
+            }
+
+            .collapse-body {
+              margin: 5px 0;
+              width: 166px;
+              border-radius: 10px;
+              position: absolute;
+              top: 100%;
+              right: 0;
+              background-color: #c6da61b3;
+              box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+              padding: 10px;
+              z-index: 14;
+
+              .current-admin-info {
+                border-bottom: 1px solid #000;
+                padding-bottom: 5px;
+                margin-bottom: 5px;
+              }
+
+              h4 {
+                margin: 3px;
+
+              }
+
+              a {
+                display: block;
+                padding: 5px 0;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.dash-card {
+  background-color: #fff;
+  border-radius: 15px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  padding: 10px;
+  margin: 2px 0;
+
+  ._list {
+    li {
+      height: 50px;
+      padding: 5px;
+
+      p {
+        font-weight: 600;
+      }
+
+      &:nth-child(odd) {
+        background-color: #f9ffdbbf;
+      }
+    }
+  }
+}
+._summery{
+  .summery-holder{
+    text-align: center;
+    position: sticky;
+    top: 20px;
+  }
+  ._summery-items{
+    min-height: 140px;
+  }
+  ._spinner{
+    &:before{
+      left: 41%;
+    }
+  }
+}
+
+.green-btn {
+  background-color: #97b500;
+  border: 1px solid #97b500;
+  border-radius: 35px;
+  color: #fff;
+  padding: 10px 15px;
+  text-align: center;
+  transition: .3s;
+
+  &:hover{
+    background-color: transparent;
+    color: #97b500;
+  }
+}
+
+.btn-add{
+  background-color: #accc02;
+  padding: 15px;
+  border-radius: 100%;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  border: 1px solid #fff;
+  color: #fff;
+  z-index: 20;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  cursor: pointer;
+
+}
+.absolute-btn{
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+}
+@include desktop() {
+
+  .master-layout {
+    .master-holder {
+      ._sidebar {
+        position: sticky;
+        top: 0;
+        height: 100vh;
+
+        .sidebar-logo {
+
+        }
+
+        .sidebar {
+          ._main-items-holder {
+            & > li {
+              a {
+                &:hover {
+                }
+              }
+
+              p {
+
+              }
+
+              &.active {
+                p {
+                }
+
+                .collapse-body {
+                }
+              }
+            }
+
+            ._items-holder {
+              ._item {
+              }
+            }
+          }
+        }
+      }
+
+      ._content {
+        width: 103%;
+        max-width: 1045px;
+        margin: 0 auto;
+
+        header {
+
+          ._actions {
+            & > div {
+            }
+
+            ._account-holder {
+              img {
+              }
+
+              ul {
+
+                a {
+
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+@include mobile-tablet() {
+
+  .menu-hamburger-icon {
+    background: #c3d374;
+    border-radius: 0 10px 10px 0;
+    display: block !important;
+    height: 41px;
+    left: 0;
+    position: fixed;
+    top: 60px;
+    width: 41px;
+    z-index: 12;
+
+    .menu-lines {
+      background-color: #fff;
+      height: 2px;
+      left: 7px;
+      position: absolute;
+      top: 44%;
+      width: 25px;
+
+      &:after {
+        background-color: #fff;
+        margin-top: 10px;
+        content: "";
+        height: 2px;
+        left: 0;
+        position: absolute;
+        width: 100%;
+      }
+
+      &:before {
+        background-color: #fff;
+        margin-top: -10px;
+        content: "";
+        height: 2px;
+        left: 0;
+        position: absolute;
+        width: 100%;
+      }
+    }
+
+  }
+  ._sidebar {
+    width: 0;
+    position: fixed;
+    margin-left: -100%;
+    transition: .3s;
+
+    &.show {
+      width: auto;
+      margin-left: 0;
+    }
+  }
+
+  ._content {
+    width: 100%;
+    h1 {
+      font-size: 17px;
+    }
+
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 20px;
+
+      .clearfix {
+        display: none;
+      }
+
+      ._actions {
+        padding-top: 0 !important;
+
+        & > div {
+        }
+
+        ._account-holder {
+          img {
+          }
+
+          ul {
+
+            a {
+
+            }
+          }
+        }
+      }
+    }
+
+    .dash-card {
+      h2 {
+        font-size: 16px;
+      }
+    }
+  }
+}
+
+@include mobile() {
+
+}

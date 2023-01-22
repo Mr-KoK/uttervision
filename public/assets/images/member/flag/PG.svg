@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="PG" fill="none" fill-rule="evenodd">
+    <g id="Papua-New-Guinea">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#000000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy" width="1" height="1" x="2" y="3" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-4" width="1" height="1" x="1" y="6" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-5" width="1" height="1" x="4" y="5" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-7" width="1" height="1" x="3" y="7" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-28-Copy-6" width="1" height="1" x="2" y="10" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-119-Copy-132" fill="#CE1126" points="0 0 16 0 16 12" mask="url(#mask-2)"/>
+      <polygon id="Combined-Shape" fill="#FCD116" points="10.742 4.398 9.532 4.89 8.661 4.398 9.871 3.244 8.866 2.603 8.661 1.325 10.484 2.449 11.291 .87 12.181 1.325 11.538 2.709 12.34 2.256 13.099 2.256 13.963 3.055 13.099 3.973 14.086 4.789 14.415 6.564 13.432 6.746 13.169 5.328 12.446 4.731 11.775 6.158 10.87 5.732 10.646 5.089" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

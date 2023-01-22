@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="AZ" fill="none" fill-rule="evenodd">
+    <g id="Azerbaijan">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-74" width="16" height="4" y="8" fill="#3F9C35" mask="url(#mask-2)"/>
+      <rect id="Rectangle-77" width="16" height="4" fill="#00B9E4" mask="url(#mask-2)"/>
+      <rect id="Rectangle-78" width="16" height="4" y="4" fill="#ED2939" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#FFFFFF" d="M9.66930453,4.89804594 C9.37240444,4.5764256 8.94722801,4.375 8.4750061,4.375 C7.57754339,4.375 6.8500061,5.10253728 6.8500061,6 C6.8500061,6.89746272 7.57754339,7.625 8.4750061,7.625 C8.94722801,7.625 9.37240444,7.4235744 9.66930453,7.10195406 C9.3113714,7.64308185 8.69736705,8 8,8 C6.8954305,8 6,7.1045695 6,6 C6,4.8954305 6.8954305,4 8,4 C8.69736705,4 9.3113714,4.35691815 9.66930453,4.89804594 Z" mask="url(#mask-2)"/>
+      <rect id="Rectangle-206" width="1" height="1" x="9" y="5.5" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

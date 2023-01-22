@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MN" fill="none" fill-rule="evenodd">
+    <g id="Mongolia">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#C4272F" mask="url(#mask-2)"/>
+      <rect id="Rectangle-39" width="6" height="12" x="5" fill="#015197" mask="url(#mask-2)"/>
+      <g id="decoration" fill="#F9CF02" mask="url(#mask-2)">
+        <g transform="translate(1 2)">
+          <rect id="Rectangle-40" width="1" height="4" y="4"/>
+          <rect id="Rectangle-40-Copy" width="1" height="4" x="2" y="4"/>
+          <circle id="Oval-43" cx="1.5" cy="3.5" r="1"/>
+          <circle id="Oval-43-Copy-2" cx="1.5" cy="2.5" r="1"/>
+          <circle id="Oval-43-Copy-3" cx="1.5" cy="1.5" r="1"/>
+          <circle id="Oval-43-Copy-8" cx="1.5" cy=".5" r="1"/>
+          <circle id="Oval-43-Copy" cx="1.5" cy="7.5" r="1"/>
+          <circle id="Oval-43-Copy-5" cx="1.5" cy="6.5" r="1"/>
+          <circle id="Oval-43-Copy-6" cx="1.5" cy="5.5" r="1"/>
+          <circle id="Oval-43-Copy-7" cx="1.5" cy="4.5" r="1"/>
+        </g>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MZ" fill="none" fill-rule="evenodd">
+    <g id="Mozambique">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#FCE100" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-55" width="16" height="4" fill="#007168" mask="url(#mask-2)"/>
+      <g id="Group-3" mask="url(#mask-2)">
+        <g transform="translate(0 4)">
+          <rect id="Rectangle-3" width="16" height="2.667" y=".667" fill="#000000"/>
+          <rect id="Rectangle-3-Copy" width="16" height="1" fill="#FFFFFF"/>
+          <rect id="Rectangle-3-Copy-2" width="16" height="1" y="3.333" fill="#FFFFFF"/>
+        </g>
+      </g>
+      <polygon id="Path-2" fill="#D21034" points="0 0 6 6 0 12" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCE100" points="2.105 6.646 1.113 7.353 1.479 6.191 .5 5.466 1.718 5.455 2.105 4.3 2.492 5.455 3.71 5.466 2.731 6.191 3.097 7.353" mask="url(#mask-2)"/>
+      <polygon id="X" fill="#000000" points=".82 7.547 1.247 7.547 2.061 6.343 2.076 6.343 2.877 7.547 3.329 7.547 2.31 6.05 2.31 6.038 3.352 4.527 2.923 4.527 2.107 5.741 2.092 5.741 1.287 4.527 .833 4.527 1.848 6.019 1.848 6.034" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

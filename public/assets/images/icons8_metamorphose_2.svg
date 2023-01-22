@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.168" height="27.168" viewBox="0 0 27.168 27.168">
+  <g id="icons8_metamorphose_2" transform="translate(0 0)">
+    <path id="Path_1" data-name="Path 1" d="M1.5,1.5H13.654V13.654H1.5Z" transform="translate(-1.143 -1.143)" fill="#dbf2ff"/>
+    <path id="Path_2" data-name="Path 2" d="M13.154,1.715V13.154H1.715V1.715H13.154M13.869,1H1V13.869H13.869V1Z" transform="translate(-1 -1)" fill="#7496c4"/>
+    <path id="Path_3" data-name="Path 3" d="M12,23.369a2.505,2.505,0,0,1-2.5-2.5V13A2.505,2.505,0,0,1,12,10.5h7.864a2.505,2.505,0,0,1,2.5,2.5v7.864a2.505,2.505,0,0,1-2.5,2.5Z" transform="translate(-3.423 -3.708)" fill="#a3d9fa"/>
+    <path id="Path_4" data-name="Path 4" d="M19.724,10.715a2.147,2.147,0,0,1,2.145,2.145v7.864a2.147,2.147,0,0,1-2.145,2.145H11.86a2.147,2.147,0,0,1-2.145-2.145V12.86a2.147,2.147,0,0,1,2.145-2.145h7.864m0-.715H11.86A2.86,2.86,0,0,0,9,12.86v7.864a2.86,2.86,0,0,0,2.86,2.86h7.864a2.86,2.86,0,0,0,2.86-2.86V12.86A2.86,2.86,0,0,0,19.724,10Z" transform="translate(-3.28 -3.566)" fill="#7496c4"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(12.154 12.154)">
+      <path id="Path_5" data-name="Path 5" d="M25.649,32.8A7.149,7.149,0,1,1,32.8,25.649,7.158,7.158,0,0,1,25.649,32.8Z" transform="translate(-18.143 -18.143)" fill="#8bb7f0"/>
+      <path id="Path_6" data-name="Path 6" d="M25.507,18.715a6.792,6.792,0,1,1-6.792,6.792,6.8,6.8,0,0,1,6.792-6.792m0-.715a7.507,7.507,0,1,0,7.507,7.507A7.507,7.507,0,0,0,25.507,18Z" transform="translate(-18 -18)" fill="#4e7ab5"/>
+    </g>
+  </g>
+</svg>

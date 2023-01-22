@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="TL" fill="none" fill-rule="evenodd">
+    <g id="Timor-Leste">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#DC241F" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-119-Copy-99" fill="#FFC726" points="0 0 10 6 0 12" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-119-Copy-100" fill="#000000" points="0 0 6 6 0 12" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FFFFFF" points="2.051 6.805 1.076 7.5 1.436 6.358 .474 5.646 1.671 5.635 2.051 4.5 2.431 5.635 3.628 5.646 2.666 6.358 3.026 7.5" mask="url(#mask-2)" transform="rotate(-26 2.05 6)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

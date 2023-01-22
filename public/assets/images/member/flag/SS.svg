@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="SS" fill="none" fill-rule="evenodd">
+    <g id="South-Sudan">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#078930" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-55" width="16" height="4" fill="#000000" mask="url(#mask-2)"/>
+      <g id="Group-3" mask="url(#mask-2)">
+        <g transform="translate(0 4)">
+          <rect id="Rectangle-3" width="16" height="2.667" y=".667" fill="#DA121A"/>
+          <rect id="Rectangle-3-Copy" width="16" height="1" fill="#FFFFFF"/>
+          <rect id="Rectangle-3-Copy-2" width="16" height="1" y="3.333" fill="#FFFFFF"/>
+        </g>
+      </g>
+      <polygon id="Path-2" fill="#0F47AF" points="0 0 6.88 6 0 12" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCDD09" points="2.621 6.576 1.976 7.447 1.967 6.364 .94 6.02 1.967 5.676 1.976 4.594 2.621 5.464 3.654 5.138 3.025 6.02 3.654 6.902" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

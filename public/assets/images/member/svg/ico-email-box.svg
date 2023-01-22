@@ -1,0 +1,4 @@
+<svg id="ico-email-box" xmlns="http://www.w3.org/2000/svg" width="41" height="41" viewBox="0 0 41 41">
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="41" height="41" rx="20.5" fill="#accd00" opacity="0.3"/>
+  <path id="email" d="M16.958,4H1.972A2.07,2.07,0,0,0,0,6.151v9.465a2.07,2.07,0,0,0,1.972,2.151H16.958a2.07,2.07,0,0,0,1.972-2.151V6.151A2.07,2.07,0,0,0,16.958,4Zm.394,4.655-6.791,3.872a2.259,2.259,0,0,1-1.1.293,2.282,2.282,0,0,1-1.1-.293L1.578,8.655V6.71L9.094,11a.758.758,0,0,0,.741,0L17.353,6.71Z" transform="translate(11.186 9.768)" fill="#b0b0b0"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MO" fill="none" fill-rule="evenodd">
+    <g id="Macao">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#00785E" mask="url(#mask-2)"/>
+      <g id="stars" fill="#FFDE00" mask="url(#mask-2)">
+        <g transform="translate(4 2)">
+          <rect id="Rectangle-28-Copy-2" width="2" height="2" x="3"/>
+          <rect id="Rectangle-28-Copy-8" width="1" height="1" x="1" y="2"/>
+          <rect id="Rectangle-28-Copy-9" width="1" height="1" y="4"/>
+          <rect id="Rectangle-28-Copy-11" width="1" height="1" x="6" y="2"/>
+          <rect id="Rectangle-28-Copy-10" width="1" height="1" x="7" y="4"/>
+        </g>
+      </g>
+      <g id="lotus" fill="#FFFFFF" mask="url(#mask-2)">
+        <g transform="translate(3 5)">
+          <path id="Oval-41" d="M5,4 C5.46875,3.75 6,3.1045695 6,2 C6,0.8954305 5.375,0.1875 5,0 C4.625,0.1875 4,0.8954305 4,2 C4,3.1045695 4.40625,3.78125 5,4 Z"/>
+          <path id="Oval-41-Copy-2" d="M6.93185165,5.48236191 C7.40060165,5.23236191 7.93185165,4.58693141 7.93185165,3.48236191 C7.93185165,2.37779241 7.30685165,1.66986191 6.93185165,1.48236191 C6.55685165,1.66986191 5.93185165,2.37779241 5.93185165,3.48236191 C5.93185165,4.58693141 6.33810165,5.26361191 6.93185165,5.48236191 Z" transform="rotate(75 6.932 3.482)"/>
+          <path id="Oval-41-Copy" d="M3.06814835,5.48236191 C3.53689835,5.23236191 4.06814835,4.58693141 4.06814835,3.48236191 C4.06814835,2.37779241 3.44314835,1.66986191 3.06814835,1.48236191 C2.69314835,1.66986191 2.06814835,2.37779241 2.06814835,3.48236191 C2.06814835,4.58693141 2.47439835,5.26361191 3.06814835,5.48236191 Z" transform="rotate(-75 3.068 3.482)"/>
+          <path id="Combined-Shape" d="M1.12601749,3 L8.87398251,3 C8.42993972,4.72522721 6.86383943,6 5,6 C3.13616057,6 1.57006028,4.72522721 1.12601749,3 Z" opacity=".5"/>
+        </g>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

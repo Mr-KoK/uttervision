@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MV" fill="none" fill-rule="evenodd">
+    <g id="Maldives">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#D21034" mask="url(#mask-2)"/>
+      <rect id="Rectangle-38" width="10" height="6" x="3" y="3" fill="#007E3A" mask="url(#mask-2)"/>
+      <path id="Combined-Shape" fill="#FFFFFF" d="M9.33333333,4.02765281 C8.38742889,4.18634551 7.66666667,5.00900124 7.66666667,6 C7.66666667,6.99099876 8.38742889,7.81365449 9.33333333,7.97234719 C9.22493051,7.99053373 9.11357074,8 9,8 C7.8954305,8 7,7.1045695 7,6 C7,4.8954305 7.8954305,4 9,4 C9.11357074,4 9.22493051,4.00946627 9.33333333,4.02765281 Z" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="GD" fill="none" fill-rule="evenodd">
+    <g id="Grenada">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#CE1126" mask="url(#mask-2)"/>
+      <rect id="Rectangle-156" width="12" height="8" x="2" y="2" fill="#FCD116" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-156-Copy" fill="#007A5E" points="2 2 8 6 14 2 14 10 8 6 2 10" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="8 1.462 7.382 1.902 7.61 1.178 7 .727 7.759 .72 8 0 8.241 .72 9 .727 8.39 1.178 8.618 1.902" mask="url(#mask-2)"/>
+      <circle id="Oval-70-Copy-6" cx="8" cy="6" r="1" fill="#CE1126" mask="url(#mask-2)"/>
+      <circle id="Oval-38" cx="8" cy="6" r="2" fill="#CE1126" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="8 6.777 6.826 7.614 7.259 6.239 6.1 5.38 7.542 5.367 8 4 8.458 5.367 9.9 5.38 8.741 6.239 9.174 7.614" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="8 11.462 7.382 11.902 7.61 11.178 7 10.727 7.759 10.72 8 10 8.241 10.72 9 10.727 8.39 11.178 8.618 11.902" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="12 1.462 11.382 1.902 11.61 1.178 11 .727 11.759 .72 12 0 12.241 .72 13 .727 12.39 1.178 12.618 1.902" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="12 11.462 11.382 11.902 11.61 11.178 11 10.727 11.759 10.72 12 10 12.241 10.72 13 10.727 12.39 11.178 12.618 11.902" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="4 1.462 3.382 1.902 3.61 1.178 3 .727 3.759 .72 4 0 4.241 .72 5 .727 4.39 1.178 4.618 1.902" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FCD116" points="4 11.462 3.382 11.902 3.61 11.178 3 10.727 3.759 10.72 4 10 4.241 10.72 5 10.727 4.39 11.178 4.618 11.902" mask="url(#mask-2)"/>
+      <circle id="Oval-70" cx="4" cy="6" r="1" fill="#FCD116" mask="url(#mask-2)"/>
+      <rect id="Rectangle-157" width="1" height="1" x="4" y="6" fill="#CE1126" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

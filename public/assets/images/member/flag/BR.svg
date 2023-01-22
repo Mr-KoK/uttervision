@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <circle id="path-3" cx="4" cy="4" r="3.5"/>
+    <path id="path-5" d="M1.1982616,1.90197456 C1.37303956,1.93743319 1.54816631,1.97539536 1.72355901,2.01588796 C3.88624852,2.51518417 5.84394048,3.34254955 7.47910857,4.38461535 C7.43999491,4.74245676 7.34694006,5.08408384 7.20824813,5.40119251 C5.62578141,4.34395644 3.67987947,3.49384423 1.49860796,2.99025802 C1.23221107,2.92875546 0.966703779,2.87343739 0.70240707,2.82417785 C0.821395625,2.49050176 0.989592701,2.18018843 1.1982616,1.90197456 Z"/>
+  </defs>
+  <g id="BR" fill="none" fill-rule="evenodd">
+    <g id="Brazil">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#009B3A" mask="url(#mask-2)"/>
+      <polygon id="Path-19" fill="#FEDF00" points="1 6 8 .997 15 5.959 8 11" mask="url(#mask-2)"/>
+      <g id="Group-19" mask="url(#mask-2)">
+        <g transform="translate(4 2)">
+          <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <use id="Oval-66" fill="#002776" xlink:href="#path-3"/>
+          <rect id="Rectangle-148" width="1" height="1" x="2" y="5" fill="#FFFFFF" mask="url(#mask-4)" opacity=".5"/>
+          <rect id="Rectangle-148-Copy-3" width="1" height="1" x="1" y="3" fill="#FFFFFF" mask="url(#mask-4)" opacity=".5"/>
+          <rect id="Rectangle-148-Copy" width="1" height="1" x="3" y="6" fill="#FFFFFF" mask="url(#mask-4)" opacity=".5"/>
+          <rect id="Rectangle-148-Copy-2" width="1" height="1" x="4" y="4" fill="#FFFFFF" mask="url(#mask-4)" opacity=".5"/>
+          <rect id="Rectangle-149" width="1" height="1" x="5" y="6" fill="#FFFFFF" mask="url(#mask-4)" opacity=".5"/>
+          <rect id="Rectangle-149-Copy" width="1" height="1" x="6" y="5" fill="#FFFFFF" mask="url(#mask-4)" opacity=".5"/>
+          <mask id="mask-6" fill="white">
+            <use xlink:href="#path-5"/>
+          </mask>
+          <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-5"/>
+        </g>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

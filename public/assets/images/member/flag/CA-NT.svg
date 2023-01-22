@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <polygon id="path-3" points="0 0 4 0 4 4 2 6 0 4"/>
+  </defs>
+  <g id="CA-NT" fill="none" fill-rule="evenodd">
+    <g id="Northwest-Territories">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#00549F" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="6" height="12" x="5" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <g id="Group-28" mask="url(#mask-2)">
+        <g transform="translate(6 3)">
+          <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <g id="Rectangle-119-Copy-7">
+            <use fill="#EE3629" xlink:href="#path-3"/>
+            <path stroke="#000000" stroke-width=".5" d="M-0.25,-0.25 L4.25,-0.25 L4.25,4 L4.1767767,4.1767767 L2,6.35355339 L-0.176776695,4.1767767 L-0.25,4 L-0.25,-0.25 Z"/>
+          </g>
+          <circle id="Oval-79" cx="3" cy="3" r="1" fill="#FFFFFF" mask="url(#mask-4)"/>
+          <polygon id="Path-26" fill="#008165" points=".719 2 3.469 4.984 2.078 6.797 -.641 4.641 -.641 2" mask="url(#mask-4)"/>
+          <rect id="Rectangle-104" width="4" height="2" fill="#FFFFFF" mask="url(#mask-4)"/>
+        </g>
+      </g>
+      <rect id="Rectangle-110" width="4" height="1" x="6" y="3.75" fill="#0056A3" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

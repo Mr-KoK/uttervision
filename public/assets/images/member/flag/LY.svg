@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="LY" fill="none" fill-rule="evenodd">
+    <g id="Libya">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#000000" mask="url(#mask-2)"/>
+      <g id="Group-4" fill="#FFFFFF" mask="url(#mask-2)">
+        <g transform="translate(5.5 4.214)">
+          <path id="Combined-Shape" d="M3.15810797,0.900012336 C2.9253527,0.647877592 2.592035,0.489969688 2.22183593,0.489969688 C1.51826868,0.489969688 0.947914738,1.06032363 0.947914738,1.76389088 C0.947914738,2.46745812 1.51826868,3.03781206 2.22183593,3.03781206 C2.592035,3.03781206 2.9253527,2.87990416 3.15810797,2.62776942 C2.87750575,3.05198736 2.39615612,3.33179388 1.84945418,3.33179388 C0.983525262,3.33179388 0.281551178,2.62981979 0.281551178,1.76389088 C0.281551178,0.897961959 0.983525262,0.195987875 1.84945418,0.195987875 C2.39615612,0.195987875 2.87750575,0.475794395 3.15810797,0.900012336 Z"/>
+          <polygon id="Star" points="3.384 2.051 2.923 2.403 3.115 1.856 2.638 1.526 3.218 1.54 3.384 .984 3.549 1.54 4.129 1.526 3.652 1.856 3.844 2.403" transform="rotate(-20 3.384 1.694)"/>
+        </g>
+      </g>
+      <rect id="Rectangle-119-Copy-47" width="16" height="3" y="9" fill="#239E46" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-65" width="16" height="3" fill="#E70013" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="MM" fill="none" fill-rule="evenodd">
+    <g id="Myanmar">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#EA2839" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-91" width="16" height="8" fill="#34B233" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-90" width="16" height="4" fill="#FECB00" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#FFFFFF" points="8.001 7.937 5.528 9.7 6.44 6.804 4 4.997 7.036 4.969 8.001 2.09 8.965 4.969 12.002 4.997 9.561 6.804 10.473 9.7" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

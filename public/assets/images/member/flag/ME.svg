@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+    <rect id="path-3" width="16" height="12"/>
+  </defs>
+  <g id="ME" fill="none" fill-rule="evenodd">
+    <g id="Montenegro">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <g id="Rectangle-77" mask="url(#mask-2)">
+        <use fill="#C40308" xlink:href="#path-3"/>
+        <rect width="15" height="11" x=".5" y=".5" stroke="#D3AE3B" stroke-opacity=".7"/>
+      </g>
+      <g id="Rectangle-234-+-Rectangle-235-+-Rectangle-236" fill="#D3AE3B" mask="url(#mask-2)" opacity=".7">
+        <path id="Rectangle-234" d="M2,2 L1,2 L1,3 L2,3 L2,4 L1,4 L1,5 L2,5 L2,6 L4,6 L4,5 L5,5 L5,4 L4,4 L4,3 L5,3 L5,2 L4,2 L4,1 L2,1 L2,2 Z M0,0 L2,0 L2,1 L0,1 L0,0 Z M4,0 L6,0 L6,1 L4,1 L4,0 Z" transform="translate(5 3)"/>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

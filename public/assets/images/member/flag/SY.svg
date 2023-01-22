@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="SY" fill="none" fill-rule="evenodd">
+    <g id="Syria">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <polygon id="Star-2" fill="#007A3D" points="5 6.39 4.412 6.809 4.629 6.121 4.049 5.691 4.771 5.684 5 5 5.229 5.684 5.951 5.691 5.371 6.121 5.588 6.809" mask="url(#mask-2)"/>
+      <polygon id="Star-2-Copy-3" fill="#007A3D" points="11 6.39 10.412 6.809 10.629 6.121 10.049 5.691 10.771 5.684 11 5 11.229 5.684 11.951 5.691 11.371 6.121 11.588 6.809" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-119" width="16" height="4" y="8" fill="#000000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-120" width="16" height="4" fill="#CE1126" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

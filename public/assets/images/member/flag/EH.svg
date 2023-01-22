@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="EH" fill="none" fill-rule="evenodd">
+    <g id="Western-Sahara">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#2875C6" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy" width="16" height="12" fill="#FFFFFF" mask="url(#mask-2)"/>
+      <rect id="Rectangle-119-Copy-74" width="16" height="4" fill="#000000" mask="url(#mask-2)"/>
+      <rect id="Rectangle-9" width="16" height="4" y="8" fill="#007A3D" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-119-Copy-36" fill="#C4111B" points="0 0 5 6 0 12" mask="url(#mask-2)"/>
+      <g id="Group-5" fill="#C4111B" mask="url(#mask-2)">
+        <g transform="translate(6 4)">
+          <path id="Combined-Shape" d="M2.17929095,0.6443483 C1.48434074,0.760938853 0.954801152,1.36533898 0.954801152,2.0934197 C0.954801152,2.82150043 1.48434074,3.42590055 2.17929095,3.5424911 C2.09964806,3.55585265 2.01783271,3.56280746 1.93439299,3.56280746 C1.12287254,3.56280746 0.465005234,2.90494015 0.465005234,2.0934197 C0.465005234,1.28189925 1.12287254,0.624031947 1.93439299,0.624031947 C2.01783271,0.624031947 2.09964806,0.630986754 2.17929095,0.6443483 Z"/>
+          <polygon id="Star-2" points="2.653 2.478 2.137 3.176 2.129 2.308 1.306 2.032 2.129 1.756 2.137 .888 2.653 1.586 3.482 1.325 2.978 2.032 3.482 2.739" transform="rotate(90 2.394 2.032)"/>
+        </g>
+      </g>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>

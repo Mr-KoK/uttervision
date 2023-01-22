@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 12">
+  <defs>
+    <rect id="path-1" width="16" height="12" rx="1"/>
+  </defs>
+  <g id="TT" fill="none" fill-rule="evenodd">
+    <g id="Trinidad-and-Tobago">
+      <mask id="mask-2" fill="white">
+        <use xlink:href="#path-1"/>
+      </mask>
+      <use id="Rectangle-77" fill="#FFFFFF" xlink:href="#path-1"/>
+      <rect id="Rectangle-77" width="16" height="12" fill="#DA1A35" mask="url(#mask-2)"/>
+      <polygon id="Rectangle-171" fill="#FFFFFF" fill-rule="nonzero" points=".929 -3.899 17.899 13.071 15.071 15.899 -1.899 -1.071" mask="url(#mask-2)"/>
+      <polygon id="Path" fill="#000000" points=".929 -2.485 -.485 -1.071 15.071 14.485 16.485 13.071" mask="url(#mask-2)"/>
+      <g id="Overlay" stroke="#000000" stroke-opacity=".1" mask="url(#mask-2)">
+        <rect width="15" height="11" x=".5" y=".5" style="mix-blend-mode:multiply"/>
+      </g>
+    </g>
+  </g>
+</svg>
