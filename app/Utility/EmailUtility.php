@@ -15,6 +15,7 @@ class EmailUtility extends Utilities {
             if(is_array($destinations)) {
                 foreach ($destinations as $person) {
                     Mail::to($person)->send(new ReportToDevelopers($body, $subject));
+                    return $person;
                 }
             }
         }catch (Exception $exception){
